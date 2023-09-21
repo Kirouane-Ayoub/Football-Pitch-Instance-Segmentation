@@ -55,3 +55,4 @@ pip install 'git+https://github.com/facebookresearch/detectron2.git'
 pip install -r requirements.txt
 streamlit run app.py
 ```
+![Screenshot at 2023-09-21 14-15-00](https://github.com/Kirouane-Ayoub/Football-Pitch-Instance-Segmentation/assets/99510125/017b9099-2665-4939-b492-ab954d42c866)
