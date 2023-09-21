@@ -32,6 +32,14 @@ The Football Pitch Instance Segmentation project leverages the power of the Mask
 + Develop advanced training simulations for players and coaches by segmenting football pitches and analyzing player movements.
 + Test various tactical scenarios, enhance decision-making skills, and improve reaction times in a realistic and controlled environment.
 
+### Custom Classes:
+
++ cross_recipient_zone
++ crossing_player_zone
++ pitch
+
+**https://universe.roboflow.com/roboflow-jvuqo/football-pitch-segmentation**
+
 ## Benefits:
 
 + In-depth player analysis
